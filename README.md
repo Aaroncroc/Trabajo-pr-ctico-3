@@ -1,6 +1,6 @@
 # FastAPI Docker Project
 
-Este proyecto es una API sencilla hecha con FastAPI y Dockerizada según las instrucciones del trabajo práctico.
+Este proyecto es una API sencilla hecha con FastAPI y Dockerizada.
 
 ## Comandos básicos
 
